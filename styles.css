@@ -1,0 +1,48 @@
+body{
+    background-color: #FBF3E4;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 3%;
+}
+
+/* Header section  */
+
+.diceLogo{
+    width: 8%;
+}
+
+.mainHeading{
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    color: #105652;
+    margin: 1.5% auto 2%;
+}
+
+.btn{
+    width: 100px;
+    height: 55px;
+    background-color: #a11710;
+    color: #FBF3E4;
+    font-size: 1rem;
+    font-style: normal;
+    margin: auto 20% 2%;
+}
+
+/* Main Section  */
+
+.playerHeading{
+    color: #105652;
+    font-style: italic;
+}
+
+.diceImg{
+    width: 120px;
+}
+
+/* footer section  */
+
+.copyright{
+    margin: 3% auto 2%;
+    color: #105652;
+    font-style: italic;
+}
